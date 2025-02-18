@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-/*
+
 class Car {
     String name;
     int price;
@@ -19,7 +19,7 @@ class Car {
         }
     }
 }
-*/
+
 
 public class AliCarCar1 {
 
